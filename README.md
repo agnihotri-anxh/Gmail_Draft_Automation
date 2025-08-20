@@ -31,5 +31,4 @@ The automation performs the following steps:
 
 
 
-## 📂 Repository Structure
 
